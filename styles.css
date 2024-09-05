@@ -1,0 +1,65 @@
+
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: Arial, sans-serif;
+    }
+
+    .alert-danger{
+      background-color: black;
+      color:red;
+      border: none;
+    }
+
+    .alert-success{
+      background-color: black;
+      color:green;
+      border:none;
+    }
+
+    .form-control {
+      background-color: #000;
+      color: #fff;
+      border: 1px solid #fff;
+    }
+
+    .btn, .btn:hover {
+      background-color: #fff;
+      color: #000;
+      border: none;
+    }
+
+/*    .btn:hover {
+      background-color: #fff;
+      color: #000;
+    }
+*/
+    .employee {
+      margin: 5px 0;
+      background-color: #f8f9fa;
+      color: #000;
+    }
+
+    .employee button {
+      background-color: white;
+      color: black;
+      border: none;
+    }
+
+    .deleteBtn{
+      background-color: white;
+      color: black;
+      border: none;
+      border-radius: 50px;
+      padding: 5px 30px;
+      margin-top: 10px;
+    }
+
+    .list-group-item {
+      background-color: #000;
+      color: #fff;
+    }
+
+    .text-muted {
+      color: #aaa;
+    }
